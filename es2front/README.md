@@ -6,7 +6,7 @@ this is a frontend interface made in Next.js paired together with a Java Spring 
 
 First, install dependencies
 ```bash
-cd es2front
+cd es2front #or ls if linux
 npm i
 ```
 
